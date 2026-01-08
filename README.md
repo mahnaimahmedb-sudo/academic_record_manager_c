@@ -1,2 +1,2 @@
 # academic_record_manager_c
-A C language project that demonstrates structured programming by managing student records through arrays, functions, and conditional logic.
+A student friendly record manager which saves time, effort and takes away the hassle of worrying about untidy work.A manager built by the help of arrays,functions ann structures.
